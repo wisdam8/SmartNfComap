@@ -1,0 +1,26 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iceameti/telegrambot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iceameti/telegrambot/issues"
+  },
+  "homepage": "https://github.com/iceameti/telegrambot#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
